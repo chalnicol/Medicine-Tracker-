@@ -1,0 +1,6 @@
+{
+  "name": "Medicine Tracker",
+  "description": "A comprehensive medicine tracker app that schedules local notifications for daily reminders, tracks medication usage history, generates detailed monthly adherence reports, and catalogs purchase records with price trends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
